@@ -1,15 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "luaxpath"
-version = "1.2-1"
+version = "1.2-2"
 -- LuaDist source
 source = {
-  tag = "1.2-1",
+  tag = "1.2-2",
   url = "git://github.com/LuaDist-testing/luaxpath.git"
 }
 -- Original source
 -- source = {
---    url = "git://github.com/basiliscos/lua-xpath"
+--    url = "git://github.com/basiliscos/lua-xpath",
+--    tag = "v1.2.2",
 -- }
 description = {
    summary = "Simple XPath implementation in the Lua programming language.",
